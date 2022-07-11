@@ -1,6 +1,6 @@
 ---
 published: true
 ---
-## Emma Watson Is just so fucking cute!!!!!
+### Emma Watson Is so cute!!!!!
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+![Click for cute Emma Watson](https://caknowledge.com/wp-content/uploads/2020/04/Emma-Watson-Net-Wealth.jpg)
