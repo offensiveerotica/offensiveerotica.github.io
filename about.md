@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
+title: Tight Pussy
 permalink: /about/
+published: true
 ---
 
 Some information about you!
